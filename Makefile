@@ -1,4 +1,4 @@
-ASS = bash assert.sh
+ASS = bash assert.sh compile
 
 all:
 	rm --force errors.txt

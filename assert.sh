@@ -11,4 +11,5 @@ compile() {
         echo
 } &>> errors.txt
 
-compile $1
+
+"$@"
